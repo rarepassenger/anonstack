@@ -34,7 +34,7 @@ To use the CoinMarketCap API, you need an API Key. Set it as an environment vari
 
 ## Contributions
 
-Contributions are welcome! If you encounter any bugs or have ideas for improvements, feel free to open an issue or submit a pull request.
+Contributions and feedback welcomed. 
 
 # License
 
