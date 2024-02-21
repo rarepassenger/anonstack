@@ -51,7 +51,7 @@ def get_bitcoin_price(api_key):
     loading_bar("loading prices... ")
     url = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest"
     headers = {
-        'X-CMC_PRO_API_KEY': '9c0bd859-0626-4073-823f-c4bac597bb42'
+        'X-CMC_PRO_API_KEY': 'your_api_key'
     }
     parameters = {
         'symbol': 'BTC'
